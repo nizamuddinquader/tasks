@@ -59,4 +59,8 @@ echo "<strong>New Expense Appended!</strong><br><br>";
 echo "<h3>File Content:</h3>";
 $fileContent = file_get_contents($fileName);
 echo nl2br($fileContent);
+
+
+
+
 ?>
