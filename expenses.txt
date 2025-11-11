@@ -1,0 +1,7 @@
+Expenses Data:
+Food: 400
+Transport: 250
+Entertainment: 150
+Shopping: 300
+Medical: 200
+Internet: 120
